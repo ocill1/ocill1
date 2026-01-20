@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Nadhif](img/github-header-banner.png)
 
-- 🔭 I’m currently working on **my imagine**
-- 🌱 I’m currently learning ...
+#### Skill
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,c,cpp,py,php,&theme=light&perline=4)](https://skillicons.dev)
+#### Connect With Me
+[![https://www.instagram.com/akundhff_?igsh=MzV1NHQ2ZDVuZGo1](https://skillicons.dev/icons?i=instagram,&theme=light)](https://skillicons.dev)
 
 ![what](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXBka2J6ZXA5MjJmemZrN3pmcDVhZDc4cGY3dDZiMzF0Ym5lMTBhciZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/GiWEowj3nQv9C/giphy.gif)
